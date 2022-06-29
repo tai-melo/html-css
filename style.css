@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+main    {background-image: linear-gradient(to right,#86BBD8,#F1D6B8);
+        background-color: white;
+        width: 600px;   /*largura*/
+        padding: 10px; /*acolchoamento. Qndo precisa colocar um espacinho a mais no final se tiver cortando palavra.*/
+        margin: auto; /*margem, no valor automático, fica centralizado não importa a largura na janela da página*/
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border-radius: 10px;
+        box-shadow: 10px 10px 12px #A18276;
+        }
+
+p       { text-align: justify;
+
+        }
+
+h1      {text-shadow:1px 1px 1px #a18276ee;
+
+}
+
